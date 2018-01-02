@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelInvoke", "ParallelInvoke\ParallelInvoke.csproj", "{4D05B450-8927-4F00-AD31-D31C838D4449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{A3EFB20C-A1AC-4032-857F-C2BF24A79470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D05B450-8927-4F00-AD31-D31C838D4449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05B450-8927-4F00-AD31-D31C838D4449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05B450-8927-4F00-AD31-D31C838D4449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05B450-8927-4F00-AD31-D31C838D4449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EFB20C-A1AC-4032-857F-C2BF24A79470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EFB20C-A1AC-4032-857F-C2BF24A79470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EFB20C-A1AC-4032-857F-C2BF24A79470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EFB20C-A1AC-4032-857F-C2BF24A79470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690E2DE9-0172-48C0-A3A9-27EE9B934A0E}
+	EndGlobalSection
+EndGlobal
